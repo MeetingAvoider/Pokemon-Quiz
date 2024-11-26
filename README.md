@@ -1,4 +1,4 @@
-# Pokémon Quiz he
+# Pokémon Quiz
 
 This project is a web-based Pokémon quiz game where players can guess the correct Pokémon character from a list of options. It utilizes HTML, CSS, and JavaScript to create an interactive quiz experience. The Pokémon data is fetched from the [PokeAPI](https://pokeapi.co/) to provide accurate and up-to-date information.
 
